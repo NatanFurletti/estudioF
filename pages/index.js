@@ -48,7 +48,7 @@ export default function Home() {
       {venceu && (
         <div className="sim-venceu">
           <div className="confetti"></div>
-          <h2>🎉 Partiu Petequinha 🎉</h2>
+          <h1>🎉 bora de BURPEE 🎉</h1>
         </div>
       )}
 
