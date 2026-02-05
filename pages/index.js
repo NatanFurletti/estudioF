@@ -1,7 +1,7 @@
 import { useState, useRef } from "react";
 
 export default function Home() {
-  const pergunta = "50 BURPEE??🥹";
+  const pergunta = "100 BURPEE??🥹";
 
   const [scale, setScale] = useState(1);
   const [started, setStarted] = useState(false);
